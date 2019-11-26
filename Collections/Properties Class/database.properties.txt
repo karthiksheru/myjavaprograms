@@ -1,0 +1,4 @@
+DriverName = org.h2.Driver
+url= wws.html.com
+username = sa
+password = sa
